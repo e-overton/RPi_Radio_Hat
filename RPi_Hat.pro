@@ -1,4 +1,4 @@
-update=03/28/2015 11:09:15 AM
+update=Thu 10 Nov 2016 00:17:57 GMT
 version=1
 last_client=kicad
 [cvpcb]
@@ -24,9 +24,11 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=C:/xesscorp/KiCad/libraries
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,5 +61,15 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=xess
-[general]
+LibName32=libraries/RPi_Hat-cache
+LibName33=libraries/customic
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
